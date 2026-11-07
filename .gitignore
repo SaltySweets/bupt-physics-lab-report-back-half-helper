@@ -1,0 +1,14 @@
+# Task-local data and generated reports
+work/
+outputs/
+data/
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.xlsx
+*.csv
+.env
+.env.*
+__pycache__/
